@@ -1,4 +1,4 @@
-use stack::stack::Stack;
+use stack::stack::stack_structure::Stack;
 fn main() {
      let mut s = Stack::new();
      s.push(1); s.push(2); s.push(4);
