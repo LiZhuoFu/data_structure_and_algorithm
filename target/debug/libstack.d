@@ -1,1 +1,0 @@
-/home/lgg/rustcode/data_structure_and_algorithm/target/debug/libstack.rlib: /home/lgg/rustcode/data_structure_and_algorithm/stack/src/lib.rs /home/lgg/rustcode/data_structure_and_algorithm/stack/src/stack.rs
